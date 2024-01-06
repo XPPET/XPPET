@@ -45,29 +45,35 @@
 
 ###
 
+<br clear="both">
+
 <img align="left" src="https://profile-counter.glitch.me/xppet/count.svg?"  />
 
 ###
 
-<div align="left">
+<div align="right">
   <a href="https://www.linkedin.com/in/xristos-petridis-a333202a1/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/XristosPet" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="discordapp.com/users/1099750060163604640" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="chris7greece@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
 </div>
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img height="200" src="https://tenor.com/view/pepe-the-frog-happy-face-tears-meme-gif-26336343"  />
+  <img height="200" src="https://media1.tenor.com/m/1khyANe1vl8AAAAd/pepe-the-frog-happy.gif"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="215" src="https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500009/102165920-vector-line-web-concept-for-programming-linear-web-banner-learn-to-code.jpg"  />
 </div>
 
 ###
