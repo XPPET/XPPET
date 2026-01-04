@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/7a0efb21-bd93-439c-ac7d-1da2ce45377c" width="100%" alt="Banner">
-<img width="3252" height="1326" alt="Group 17" src="https://github.com/user-attachments/assets/3153e2dc-9bb9-4d69-9888-d50d625b7200" />
+<img width="3600" height="6000" alt="Frame 1" src="https://github.com/user-attachments/assets/41efc1cb-21a5-4b5d-a4bd-17c4c5757307" />
 
 </div>
